@@ -1,10 +1,10 @@
 # CAPSTONE-PHONEPE-PROJECT-
 
-📱 PhonePe Data Analysis – Capstone Project
+📲 PhonePe Data Analysis – Capstone Project
 --------------------------------------
 
 
-🔍 Project Overview
+📷 Project Overview
 ------------------------
 This project" involves analyzing the publicly available PhonePe Pulse data from its GitHub repository to extract, transform, and visualize trends in digital payments in India. 
 
@@ -15,7 +15,7 @@ The goal is to provide insights into user behavior, transaction volumes, and the
 
 
 
-🎯 Objectives
+📍 Objectives
 -----------------------------------------------------------------
 📊 Analyze aggregated transaction data (volume, value, category).
 
@@ -29,7 +29,7 @@ The goal is to provide insights into user behavior, transaction volumes, and the
 
 
 
-🛠️ Tech Stack
+🤖 Tech Stack
 -----------------
 Python (pandas, numpy) – Data cleaning & analysis
 
@@ -43,18 +43,25 @@ Git & GitHub – Version control & project sharing
 
 
 
-📦 PhonePe-Capstone/Project structure
+🧱 PhonePe-Capstone/Project structure
 ----------------------------
  ┣ 📂 data                # Raw and processed datasets(JSON FILE)
+ 
  ┣ 📂 notebooks           # Jupyter/Colab notebooks for EDA & analysis
+ 
  ┣ 📂 dashboard           # Streamlit / Dash app code
+ 
  ┣ 📂 reports             # Insights, charts, and documentation
+ 
  ┣ 📄 requirements.txt    # Python dependencies
+ 
  ┣ 📄 README.md           # Project documentation (this file)
+ 
  ┗ 📄 LICENSE             # License (if applicable)
 
 
- 📊 Key Insights
+
+ 💾 Key Insights
 ----------------------
 💰 Transactions Growth – Digital transactions have shown consistent year-on-year growth, with 2021–2023 witnessing the highest surge across most states.
 
